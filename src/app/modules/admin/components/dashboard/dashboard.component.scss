@@ -1,0 +1,19 @@
+
+.dashboard-container {
+  padding: 20px;
+}
+
+.projects-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+mat-card {
+  width: 300px;
+}
+
+mat-card-actions {
+  display: flex;
+  justify-content: space-between;
+}
